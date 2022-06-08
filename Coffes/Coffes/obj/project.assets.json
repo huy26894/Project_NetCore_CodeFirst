@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nd_huy\\Desktop\\Projects\\Coffes\\Coffes\\Coffes.csproj",
+      "projectUniqueName": "C:\\Users\\nd_huy\\Desktop\\Projects\\Project_NetCore_CodeFirst\\Coffes\\Coffes\\Coffes.csproj",
       "projectName": "Coffes",
-      "projectPath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Coffes\\Coffes\\Coffes.csproj",
+      "projectPath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Project_NetCore_CodeFirst\\Coffes\\Coffes\\Coffes.csproj",
       "packagesPath": "C:\\Users\\nd_huy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Coffes\\Coffes\\obj\\",
+      "outputPath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Project_NetCore_CodeFirst\\Coffes\\Coffes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

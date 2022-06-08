@@ -1,12 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Coffes.Entites;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Coffes.Model
+namespace Coffes.EF
 {
-    public class MyDbContext : DbContext
+    public class CoffeDbContext : DbContext
     {
         public DbSet<Account> Account { get; set; }
         public DbSet<Area> Area { get; set; }

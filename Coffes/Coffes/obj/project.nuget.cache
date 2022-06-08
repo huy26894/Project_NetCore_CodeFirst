@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ly07eNfYznQO9cRRoGgjFm+77Js+XKA5h7xvwVm3HzOUQNVEgyvGZ15oGm1jR4SHTEezeNd+0aGmGRmKMoUHEw==",
+  "dgSpecHash": "D15wud2gT2H0qbqCV07pyv69F/2/S64IyUEZC2Hb5Ya3KalHxbxqr/umGE7sVxZ1GTQI6IQ2Ok7+zd3zf+/uYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Coffes\\Coffes\\Coffes.csproj",
+  "projectFilePath": "C:\\Users\\nd_huy\\Desktop\\Projects\\Project_NetCore_CodeFirst\\Coffes\\Coffes\\Coffes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nd_huy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nd_huy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
