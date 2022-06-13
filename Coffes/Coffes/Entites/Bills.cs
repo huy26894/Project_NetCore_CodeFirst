@@ -4,7 +4,7 @@ namespace Coffes.Entites
 {
     public class Bills
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; } = new Guid();
         public int TableId { get; set; }
         public DateTime DateTimeCheckIn { get; set; }
         public DateTime DateTimeCheckOut { get; set; }

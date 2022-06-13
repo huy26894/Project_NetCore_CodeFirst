@@ -1,8 +1,10 @@
-﻿namespace Coffes.Entites
+﻿using System;
+
+namespace Coffes.Entites
 {
     public class BillDetail
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; } = new Guid();
         public int BillId { get; set; }
         public int ProductId { get; set; }
         public int Number { get; set; }

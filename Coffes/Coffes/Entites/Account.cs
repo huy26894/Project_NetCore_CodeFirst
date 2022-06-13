@@ -1,8 +1,10 @@
-﻿namespace Coffes.Entites
+﻿using System;
+
+namespace Coffes.Entites
 {
     public class Account
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; } = new Guid();
         public string UserName { get; set; }
         public string Password { get; set; }
         public int Role { get; set; }

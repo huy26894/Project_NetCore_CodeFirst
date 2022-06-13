@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Coffes.Entites
 {
@@ -6,6 +8,7 @@ namespace Coffes.Entites
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public List<TableCoffees> TableCoffees { get; set; }
+
+        public IList<TableCoffees> TableCoffees { get; set; }
     }
 }
